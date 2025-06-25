@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- University rankings data provided by [Data Source Name]
+- University rankings data provided by [Kaggle]
 - Built with the Preswald Analytics Framework
 - Visualization powered by Plotly
 - Data processing with Pandas
